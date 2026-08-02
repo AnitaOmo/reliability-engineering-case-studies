@@ -1,6 +1,17 @@
 Case_Studies
 │   ├── Medical_Infusion_Pump_FMEA
+    ├── README.md
+│   │   ├── medical_pump_fmea.ipynb
+│   │   ├── images
+│   │   └── references.md
+
 │   ├── Wind_Turbine_FMEA
-│   ├── Bearing_Failure_RCA
+│   │   ├── README.md
+│   │   ├── wind_turbine_fmea.ipynb
+│   │   └── images
+│
+│   ├── Root_Cause_Analysis
+│   │
 │   ├── Weibull_Analysis
+│   │
 │   └── CAD_Failure_Analysis

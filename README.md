@@ -19,3 +19,4 @@ I am an Industrial Physics graduate transitioning into Reliability Engineering a
 The goal of this portfolio is to showcase practical engineering investigations using real-world inspired case studies. Each project focuses on understanding failure mechanisms, analyzing reliability data, assessing risk, and recommending engineering solutions supported by evidence.
 
 As I continue to develop my skills, this portfolio will grow to include more advanced projects in reliability engineering, failure analysis, materials engineering, and CAD.
+reliability-engineering-case-studies

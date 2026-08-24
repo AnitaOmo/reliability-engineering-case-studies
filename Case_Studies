@@ -1,10 +1,12 @@
+```text
 Case_Studies
-│   ├── Medical_Infusion_Pump_FMEA
-    ├── README.md
-│   │   ├── medical_pump_fmea.ipynb
-│   │   ├── images
-│   │   └── references.md
-
+├── Medical_Infusion_Pump_FMEA
+│   ├── README.md
+│   ├── medical_pump_fmea.ipynb
+│   ├── images
+│   └── references.md
+...
+```
 │   ├── Wind_Turbine_FMEA
 │   │   ├── README.md
 │   │   ├── wind_turbine_fmea.ipynb

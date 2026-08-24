@@ -3,17 +3,30 @@ Case_Studies
 ├── Medical_Infusion_Pump_FMEA
 │   ├── README.md
 │   ├── medical_pump_fmea.ipynb
-│   ├── images
-│   └── references.md
-...
-```
-│   ├── Wind_Turbine_FMEA
-│   │   ├── README.md
-│   │   ├── wind_turbine_fmea.ipynb
-│   │   └── images
+│   ├── references.md
+│   └── images
 │
-│   ├── Root_Cause_Analysis
-│   │
-│   ├── Weibull_Analysis
-│   │
-│   └── CAD_Failure_Analysis
+├── Wind_Turbine_FMEA
+│   ├── README.md
+│   ├── wind_turbine_fmea.ipynb
+│   ├── references.md
+│   └── images
+│
+├── Root_Cause_Analysis
+│   ├── README.md
+│   ├── rca_case_study.ipynb
+│   ├── references.md
+│   └── images
+│
+├── Weibull_Analysis
+│   ├── README.md
+│   ├── weibull_modeling.ipynb
+│   ├── references.md
+│   └── images
+│
+└── CAD_Failure_Analysis
+    ├── README.md
+    ├── cad_fea_simulation.ipynb
+    ├── references.md
+    └── images
+```

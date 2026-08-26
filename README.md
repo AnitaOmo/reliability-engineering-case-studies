@@ -20,35 +20,3 @@ The goal of this portfolio is to showcase practical engineering investigations u
 
 As I continue to develop my skills, this portfolio will grow to include more advanced projects in reliability engineering, failure analysis, materials engineering, and CAD.
 reliability-engineering-case-studies
-
-```text
-Case_Studies
-├── Medical_Infusion_Pump_FMEA
-│   ├── README.md
-│   ├── medical_pump_fmea.ipynb
-│   ├── references.md
-│   └── images
-│
-├── Wind_Turbine_FMEA
-│   ├── README.md
-│   ├── wind_turbine_fmea.ipynb
-│   ├── references.md
-│   └── images
-│
-├── Root_Cause_Analysis
-│   ├── README.md
-│   ├── rca_case_study.ipynb
-│   ├── references.md
-│   └── images
-│
-├── Weibull_Analysis
-│   ├── README.md
-│   ├── weibull_modeling.ipynb
-│   ├── references.md
-│   └── images
-│
-└── CAD_Failure_Analysis
-    ├── README.md
-    ├── cad_fea_simulation.ipynb
-    ├── references.md
-    └── images

@@ -1,7 +1,8 @@
+```text
 Case_Studies
 ├── Medical_Infusion_Pump_FMEA
 │   ├── README.md
-│   ├── Medical_Infusion_Pump_FMEA.pdf
+│   ├── medical_infusion_pump_fmea.pdf
 │   ├── references.md
 │   └── images
 │
